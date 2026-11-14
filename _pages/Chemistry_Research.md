@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Chemistry Research"
-permalink: /Chemistry_Research/
+permalink: /chemistryresearch/
 author_profile: true
 ---
 
