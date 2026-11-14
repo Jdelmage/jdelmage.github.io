@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Théo Michelot"
+title                    : "Climate Impact of Chemistry Research"
 title_separator          : "-"
-name                     : &name "Theo Michelot"
-description              : &description "Assistant professor in statistics at Dalhousie University"
-url                      : https://theomichelot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jesse Delmage"
+description              : &description "An introduction into the climate impact of chemistry"
+url                      : https://jdelmage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TheoMichelot.github.io"
+repository               : "jdelmage.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Théo Michelot"
-  avatar           : "bio-photo.jpg"
-  bio              : "Assistant professor in statistics at Dalhousie University"
-  location         : "Halifax, Canada"
+  name             : "Jesse Delmage"
+  avatar           : "photo.jpg"
+  bio              : "Chemistry Graduate Student"
+  location         : "Victoria, Canada"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/citations?user=Exvg0HYAAAAJ"
+  pubmed           : # ""
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,11 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TheoMichelot"
+  github           : "Jdelmage"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #""
   lastfm           :
   linkedin         :
   orcid            : # "http://orcid.org/yourorcidurl"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "TheoMichelot"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
