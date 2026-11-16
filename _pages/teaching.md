@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Buckley Group Work"
+title: "Mitigation inn Chemistry"
 permalink: /teaching/
 author_profile: true
 ---
