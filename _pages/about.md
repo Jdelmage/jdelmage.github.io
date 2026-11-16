@@ -25,10 +25,12 @@ redirect_from:
 - Increased drought conditions can lead to decreased farm productivity.
 - Increased extreme heat events leads to more heat related deaths.
 - Increased atmoshperic CO2 has also driven ocean acidity and ocean heating, damaging valuable ecosystems.
-- 
+  
 ## How does Chemistry Research Contribute to a Changing Climate
 - Chemical reactions can produce greenhouse gasses, especially CO2.
 - Chemical research requires vast amounts of power for things like instruments, fumehoods, and producing consumables.
 - Chemical waste, especially solvents, is typically combusted, emitting greenhouse gasses into the atmosphere.
 
-## H
+## Emissions Mitigation Efforts in Chemistry - A Case Study
+- Look at how mechanochemistry aims to mitigate the environmental impact of chemistry
+- We will view this phenomena through the lens of a Buckley group PhD student, Kirsten Aasen.
