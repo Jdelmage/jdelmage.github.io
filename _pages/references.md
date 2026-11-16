@@ -11,6 +11,9 @@ author_profile: true
 
 [2]Rossen, K., Ganesh, K., & Donsbach, K. O. (2024). Expansion of the Green Chemistry Principles: Inclusion of Greenhouse Gases and Carbon Footprint. Organic Process Research & Development, 28(10), 3753–3756. https://doi.org/10.1021/acs.oprd.4c00428
 
+[3]Schüth, F., & Schunk, S. A. (2026). Transitioning of the Chemical Industry Toward a Net‐Zero Carbon Dioxide Emission Path. Angewandte Chemie (International Ed. in English), 65(4), e22234. https://doi.org/10.1002/anie.202522234
+
+
 
 
 <!-- {% include base_path %} -->
