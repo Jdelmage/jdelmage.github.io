@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Climate Change and Chemistry - An Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
