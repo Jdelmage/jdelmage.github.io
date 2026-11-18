@@ -16,6 +16,7 @@ However, for industry to transition to greener, more sustainable, chemistries, t
 precident needs to exist. Therefore, one of the roles that chemical research can play is in the design 
 of chemistry that demands less resources and produces less emissions. 
 
+However, this is not to say that academic researchers in chemistry are blameless, and should not be concerned with the greenhouse gas emissions of their work. A 2024 study, which attempted to measure the emissions of graduate students from three labs, found that the per capita emissions were 5.6teq of CO<sub>2</sub>. These values ranged widely, dependent on the field of chemistry, but certain factors remained constant. For example, across the three labs, purchases (consumables, chemicals, solvents, gasses and misc) drove emissions, led by chemicals[8]. This will be discussed further, but it is clear that their is potential for emission reductions in academic chemistry research labs.  
 
 
 **Greenhouse Gas Emissions from Chemical Reactions**
