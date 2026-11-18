@@ -13,12 +13,13 @@ to understand the mitigation potential of chemistry. To take this a step further
 
 <p align="center">
   <img src="/images/chemacs.jpg" />
+  **Figure 1.** The 12 principles of green chemistry[4].
 </p>
 
-**Figure 1.** The 12 principles of green chemistry[4].
 
 
 **Ball Milling for Solventless Chemistry**
 <p align="center">
 <video src="/images/1000007547.mp4" width="320" height="240" controls></video>
+  **Figure 2. A video dsiplaying a ball mill in action.
 </p>
