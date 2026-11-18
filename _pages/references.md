@@ -21,6 +21,8 @@ author_profile: true
 
 [7]Climate change: Atmospheric carbon dioxide. NOAA Climate.gov. (2025, May 21). https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide
 
+[8]Estevez-Torres, A., Gauffre, F., Gouget, G., Grazon, C., & Loubet, P. (2024). Carbon footprint and mitigation strategies of three chemistry laboratories. Green Chemistry, 26(5), 2613–2622. https://doi.org/10.1039/d3gc03668e
+
 
 
 
