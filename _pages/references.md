@@ -15,6 +15,13 @@ author_profile: true
 
 [4]Anastas, P. T., & Warner, J. C. (2000). Green Chemistry: Theory and Practice. Oxford University Press. https://doi.org/10.1093/oso/9780198506980.001.0001
 
+[5]Raupach, M. R., Marland, G., Ciais, P., Le Quéré, C., Canadell, J. G., Klepper, G., & Field, C. B. (2007). Global and regional drivers of accelerating CO2 emissions. Proceedings of the National Academy of Sciences of the United States of America, 104(24), 10288–10293. https://doi.org/10.1073/pnas.0700609104
+
+[6]Raupach, M. R., Marland, G., Ciais, P., Le Quéré, C., Canadell, J. G., Klepper, G., & Field, C. B. (2007). Global and regional drivers of accelerating CO2 emissions. Proceedings of the National Academy of Sciences of the United States of America, 104(24), 10288–10293. https://doi.org/10.1073/pnas.0700609104
+
+[7]Climate change: Atmospheric carbon dioxide | NOAA Climate.gov. (2025, May 21). https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide
+
+
 
 
 <!-- {% include base_path %} -->
