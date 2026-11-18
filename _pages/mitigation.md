@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Mitigation in Chemistry"
-permalink: /teaching/
+permalink: /mitigation/
 author_profile: true
 ---
 
