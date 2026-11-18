@@ -14,3 +14,8 @@ to understand the mitigation potential of chemistry. To take this a step further
 
 ![cap-recap app](/images/ChemACS_GreenChemistry.jpeg)
 **Figure 1.** The 12 principles of green chemistry[4].
+
+
+**Ball Milling for Solventless Chemistry**
+
+![cap-recap app](/images/1000007547.mp4)
