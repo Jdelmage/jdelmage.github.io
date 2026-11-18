@@ -12,4 +12,8 @@ and a half, anthropological climate change has changed global mean temperatures 
 
 ![cap-recap app](/images/historic_climate.jpg)
 
-**Figure 1.** Global Mean Surface Temperatuer Over the Last 400 Million Years. [1]
+**Figure 1.** Global Mean Surface Temperatuer Over the Last 400 Million Years.[1]
+
+The main driving force behind earths changing climate is the emissions of greenhouse gasses into the atmosphere. Amongst common greenhouse gasses are molecules like: carbon dioxide (CO<sub>2</sub>), nitrous oxide (N<sub>2</sub>O) and methane (CH<sub>4</sub>)[5]. While sourced from many processes, the main contributor to greenhouse gas emissions is the combustion of fossil fuels for energy production[6]. Similar to temperature on earth, greenhouse gas concentrations have varied historically; however, CO<sub>2</sub> emissions post industrialization have been so high, that we have overwhelmed the earths natural cycle[7]. Shown in Figure 2., atmospheric concentrations of CO<sub>2</sub> have grown from ~310 parts per million (ppm) in 1960, to over 420 ppm in 2024[7].
+
+![cap-recap app](/images/graph_carbondioxide.png)
