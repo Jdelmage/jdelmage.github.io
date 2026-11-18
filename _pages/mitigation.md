@@ -11,8 +11,8 @@ Green chemistry refers to a field of chemistry that aims to minimize use of harm
 chemical practices. Made up of twelve core principles, shown in Figure 1., green chemistry serves as a good lens through which 
 to understand the mitigation potential of chemistry. To take this a step further, we will analyze the mitigation potential of green chemistry through the lens of Kirsten Aasen, a PhD candidate in the Buckley group. 
 
-
-![cap-recap app](/images/ChemACS_GreenChemistry.jpeg)
+![cap-recap app](/images/historic_climate.jpg)
+![cap-recap app](/images/ChemACS_GreenChemistry.jpg)
 **Figure 1.** The 12 principles of green chemistry[4].
 
 
