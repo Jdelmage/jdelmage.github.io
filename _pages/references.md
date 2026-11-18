@@ -13,6 +13,7 @@ author_profile: true
 
 [3]Schüth, F., & Schunk, S. A. (2026). Transitioning of the Chemical Industry Toward a Net‐Zero Carbon Dioxide Emission Path. Angewandte Chemie (International Ed. in English), 65(4), e22234. https://doi.org/10.1002/anie.202522234
 
+[4]Anastas, P. T., & Warner, J. C. (2000). Green Chemistry: Theory and Practice. Oxford University Press. https://doi.org/10.1093/oso/9780198506980.001.0001
 
 
 
