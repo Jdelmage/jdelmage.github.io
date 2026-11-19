@@ -22,5 +22,5 @@ In short, human caused changes to the concentration of greenhouse gasses in the 
 is causing irreversible changes to the planet. Amongst these changes are hotter days on average, increased melting of sea ice and glaciers, increased precipitation in certain regions of the planet and others. These changes are likely to unequally negatively impact people who are already experiencing poverty, widening the global wealth gap. In an attempt to combat climate change, countries from around the planet have come together, at events such as COP30 in Brazil, where they discuss efforts to lower emissions and slow climate change. One important document to come out of the COP meetins was the Paris Accord at COP21 in 2015. 
 
 <p align="center">
-  <img src="/images/paris_agreement_11point5degrees.png" />
+  <img src="/images/paris_agreement_1point5degrees.png" />
 </p>
