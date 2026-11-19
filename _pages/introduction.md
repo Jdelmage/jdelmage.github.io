@@ -23,4 +23,5 @@ is causing irreversible changes to the planet. Amongst these changes are hotter 
 
 <p align="center">
   <img src="/images/paris_agreement_1point5degrees.png" />
+  **Figure 2.** Plot illustrating the modelled pathways and emissions outcomes of different policy pathways. The red pathway represents were we were with respect to policy at the release of AR6 in 2021, while the blue curve represents where we would need to be to limit warming to 1.5 degrees celcius. 
 </p>
