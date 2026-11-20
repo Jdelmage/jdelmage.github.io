@@ -19,9 +19,13 @@ The main driving force behind earths changing climate is the emissions of greenh
 ![cap-recap app](/images/graph_carbondioxide.png)
 
 In short, human caused changes to the concentration of greenhouse gasses in the atmosphere, driven primarily by burning fossil fuels, 
-is causing irreversible changes to the planet. Amongst these changes are hotter days on average, increased melting of sea ice and glaciers, increased precipitation in certain regions of the planet and others. These changes are likely to unequally negatively impact people who are already experiencing poverty, widening the global wealth gap. In an attempt to combat climate change, countries from around the planet have come together, at events such as COP30 in Brazil, where they discuss efforts to lower emissions and slow climate change. One important document to come out of the COP meetins was the Paris Accord at COP21 in 2015. 
+is causing irreversible changes to the planet. Amongst these changes are hotter days on average, increased melting of sea ice and glaciers, increased precipitation in certain regions of the planet and others. These changes are likely to unequally negatively impact people who are already experiencing poverty, widening the global wealth gap. In an attempt to combat climate change, countries from around the planet have come together, at events such as COP30 in Brazil, where they discuss efforts to lower emissions and slow climate change. One important document to come out of the COP meetins was the Paris Accord at COP21 in 2015, which bound countries that signed to "pursue efforts to limit warming to 1.5 degrees celcius."[9]. 
 
 <p align="center">
   <img src="/images/paris_agreement_1point5degrees.png" />
   **Figure 2.** Plot illustrating the modelled pathways and emissions outcomes of different policy pathways. The red pathway represents were we were with respect to policy at the release of AR6 in 2021, while the blue curve represents where we would need to be to limit warming to 1.5 degrees celcius. 
 </p>
+
+In the 2018 IPCC special report, they thoroughly disseminate the reality of what 1.5 degrees of warming and beyond would mean for the earth and humans. 
+
+
