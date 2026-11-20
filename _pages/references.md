@@ -23,6 +23,10 @@ author_profile: true
 
 [8]Estevez-Torres, A., Gauffre, F., Gouget, G., Grazon, C., & Loubet, P. (2024). Carbon footprint and mitigation strategies of three chemistry laboratories. Green Chemistry, 26(5), 2613–2622. https://doi.org/10.1039/d3gc03668e
 
+[9]IPCC, 2018: Global Warming of 1.5°C. An IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial levels and
+related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change,
+sustainable development, and efforts to eradicate poverty [Masson-Delmotte, V., P. Zhai, H.-O. Pörtner, D. Roberts, J. Skea, P.R. Shukla,
+A. Pirani, W. Moufouma-Okia, C. Péan, R. Pidcock, S. Connors, J.B.R. Matthews, Y. Chen, X. Zhou, M.I. Gomis, E. Lonnoy, T. Maycock, M. Tignor, and T. Waterfield (eds.)]. Cambridge University Press, Cambridge, UK and New York, NY, USA, 616 pp., doi:10.1017/9781009157940.
 
 
 
