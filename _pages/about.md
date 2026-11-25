@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="header.png">
+
 ## Purpose of this Project
 - Describe the Climate Impact of Chemistry Research
 - Understand how chemistry can produce CO2 emissions
