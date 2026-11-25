@@ -35,5 +35,6 @@ redirect_from:
 - Chemical waste, especially solvents, is typically combusted, emitting greenhouse gasses into the atmosphere.
 
 ## Emissions Mitigation Efforts in Chemistry - A Case Study
-- Look at how mechanochemistry aims to mitigate the environmental impact of chemistry
+- How can a green chemistry lens shift the chemistry-climate paradigm?
+- Look at how mechanochemistry aims to mitigate the environmental impact of chemistry.
 - We will view this phenomena through the lens of a Buckley group PhD student, Kirsten Aasen.
