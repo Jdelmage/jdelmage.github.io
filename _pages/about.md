@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-<img src="/images/header.png"width="48">
+<img src="/images/header.png"width="480">
 </p>
 ## Purpose of this Project
 - Describe the Climate Impact of Chemistry Research
